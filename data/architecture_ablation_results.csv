@@ -1,0 +1,4 @@
+Model_Type,Test_F1,Test_Prec,Test_Rec,Test_AUC,Best_Threshold
+Random_Forest,0.4245,0.3483,0.5433,0.8699,0.23
+GNN_No_Edges,0.453,0.3868,0.5467,0.9007,0.26
+GNN_Full_With_Edges,0.587,0.5374,0.6467,0.9398,0.31

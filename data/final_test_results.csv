@@ -1,0 +1,4 @@
+F1_Score,Precision,Recall,Accuracy,AUC_Score,TP_Caught_Vandals,FN_Missed_Vandals,FP_False_Accusations
+0.587,0.5374,0.6467,0.9239,0.9398,194,106,167
+F1_Score,Precision,Recall,Accuracy,AUC_Score,TP_Caught_Vandals,FN_Missed_Vandals,FP_False_Accusations
+0.587,0.5374,0.6467,0.9239,0.9398,194,106,167
